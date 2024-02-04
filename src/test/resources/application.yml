@@ -1,0 +1,6 @@
+yz-framework:
+  data:
+    connectionUrl: localhost:3306/test
+    driverName: com.mysql.jdbc.Driver
+    userName: root
+    passWord: 123456
